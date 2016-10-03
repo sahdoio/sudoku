@@ -2,7 +2,7 @@ executar:
 
 
 
-gcc Sudoku.c -o SudokuGame
+gcc sudoku.c -o sudoku
 
 
 
@@ -12,7 +12,7 @@ Execute o programa com os dois arquivos complementares presentes na mesma pasta:
 
 
 
-1 - Partidas.h
+1 - partidas.h
 
-2 - SahdoLib.h
+2 - sahdoLib.h
 

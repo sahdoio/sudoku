@@ -4,8 +4,8 @@
 #include <stdio_ext.h>
 
 //Bibliotecas alternativas
-#include "SahdoLib.h"
-#include "Partidas.h"
+#include "sahdolib.h"
+#include "partidas.h"
 
 //Ordem da matriz do tabuleiro de Sudoku
 #define ORDEM 9
