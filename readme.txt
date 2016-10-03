@@ -8,7 +8,7 @@ gcc Sudoku.c -o SudokuGame
 
 obs: 
 
-Execute o programa com o tres arquivos presentes na mesma pasta:
+Execute o programa com os dois arquivos complementares presentes na mesma pasta:
 
 
 
@@ -16,4 +16,3 @@ Execute o programa com o tres arquivos presentes na mesma pasta:
 
 2 - SahdoLib.h
 
-3 - matrizSudolu.c
