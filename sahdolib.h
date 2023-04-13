@@ -21,7 +21,7 @@
 
 
 //Protótipos
-void nicePrint(char string[50], int x, int y);
+void nicePrint(char string[], int x, int y);
 void gotoxy(int x, int y);
 void clrscr();
 void setTextMode(int mode);
@@ -29,7 +29,7 @@ void setColor(int text, int background);
 
 
 //------------------------------------------------------------------------------
-void nicePrint(char string[50], int x, int y)
+void nicePrint(char string[], int x, int y)
 {
    int i = 0;
 
